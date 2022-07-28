@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>list-black-disabled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M256.263313,363.107849 L767.736687,363.107849 C803.082911,363.107849 831.736687,391.761625 831.736687,427.107849 C831.736687,444.081705 824.993849,460.360355 812.991521,472.362683 L557.254834,728.09937 C532.261279,753.092925 491.738721,753.092925 466.745166,728.09937 L211.008479,472.362683 C186.014925,447.369129 186.014925,406.84657 211.008479,381.853015 C223.010807,369.850687 239.289458,363.107849 256.263313,363.107849 Z" id="path-1"></path>
+    </defs>
+    <g id="list-black-disabled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Path" fill-opacity="0.25" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>
